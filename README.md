@@ -8,7 +8,7 @@ Beginner’s AI Study Log
 
 
 ## 📌 정리 내용
-- **이론 정리**: [구피의 어항 티스토리](https://fishbowl-guppy.tistory.com/)
+- **이론 정리**: [구피의 어항 티스토리](https://fishbowl-guppy.tistory.com/category/AI%20%EA%B3%B5%EB%B6%80%20%EA%B8%B0%EB%A1%9D)
 - **실습 코드**: 직접 구현한 AI 모델 코드 업로드
 
 
