@@ -15,13 +15,6 @@ Beginner’s AI Study Log
 
 
 
-## 📂 폴더 구조
-- `ai-study-log/`
-  - `theory/` → AI 이론 정리
-  - `practice/` → 실습 코드 저장
-  - `README.md` → 프로젝트 설명 파일
- 
-  - 
 ## 📁 폴더 구조 설명
 
 | 폴더명 | 내용 |
